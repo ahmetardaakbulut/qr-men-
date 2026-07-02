@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Dinamik QR Kod Sistemi",
+  "description": "Restoranlar için otomatik QR menü, masa bazlı QR kod yönetimi, logo yerleştirme ve premium indirme/yazdırma özelliklerine sahip gelişmiş QR yönetim paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
